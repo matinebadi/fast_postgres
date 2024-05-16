@@ -1,0 +1,1 @@
+This piece of code enables retrieving information from the input using the postgres database and fastapi to update, delete, display, and perform other actions on the data, and then store it inside the database.
